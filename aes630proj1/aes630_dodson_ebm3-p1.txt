@@ -1,0 +1,14 @@
+Layerwise absorption (W/m^2):  [  8.7138583   59.96917497 170.15824102]
+Layerwise temps (K):           [233.71671403 269.50335971 308.46115252]
+
+Absorbed by surface:           170.158
+Absorbed by atmosphere:        68.683
+
+Reflected by surface:          0.04175
+Reflected by atmosphere:       87.923
+
+Net surface heat loss:         170.158
+
+Sfc LW to space (W/m^2):       19.563
+Sfc LW to atmosphere (W/m^2):  150.596
+Atmo LW to space (W/m^2):      219.210

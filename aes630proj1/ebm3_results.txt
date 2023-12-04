@@ -1,0 +1,27 @@
+-- Without HF --
+        Sol-a Sol-t Sol-r IR-a IR-t IR-r
+Layer 1 0.020 0.942 0.038 0.096 0.899 0.005
+Layer 2 0.171 0.584 0.245 0.740 0.045 0.215
+Surface 0.868 0.0   0.132 0.926 0.0   0.074
+Total Absorption, 1, 2 and sfc: 8.714 59.969 170.158
+Heat Flux 3-2 and 2-1 0.000 0.000
+Temp 1,2,sfc 233.675 269.448 308.410
+
+-- With HF --
+        Sol-a Sol-t Sol-r IR-a IR-t IR-r
+Layer 1 0.020 0.942 0.038 0.096 0.899 0.005
+Layer 2 0.171 0.584 0.245 0.740 0.045 0.215
+Surface 0.868 0.132 0.926 0.074
+
+Total Absorption, 1, 2 and sfc: 8.714 157.836 72.291
+Heat Flux 3-2 and 2-1 97.867 0.000
+Temp 1,2,sfc 233.675 271.049 287.487
+
+-- With Keihl/Trenberth 2 --
+        Sol-a Sol-t Sol-r IR-a IR-t IR-r
+Layer 1 0.026 0.816 0.158 0.366 0.431 0.203
+Layer 2 0.226 0.660 0.114 0.762 0.204 0.034
+Surface 0.754 0.246 0.995 0.005
+Total Absorption, 1, 2 and sfc: 10.548 173.953 49.833
+Heat Flux 3-2 and 2-1 97.867 0.000
+Temp 1,2,sfc 243.929 286.112 286.687
